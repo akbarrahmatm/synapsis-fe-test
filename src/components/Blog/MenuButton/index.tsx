@@ -12,7 +12,7 @@ const items = [
   },
 ];
 
-const Menus = () => {
+const MenuButton = () => {
   return (
     <>
       <ul className="flex gap-2 justify-end">
@@ -30,4 +30,4 @@ const Menus = () => {
   );
 };
 
-export default Menus;
+export default MenuButton;
